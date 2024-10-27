@@ -11,7 +11,7 @@ from .models import Product, Order, OrderItem
 
 from .models import * 
 
-
+#change
 # User Registration View
 def register_view(request):
     if request.method == 'POST':
